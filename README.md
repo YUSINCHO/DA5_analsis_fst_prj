@@ -17,4 +17,36 @@
    - 따릉이 고장 예방 및 관리 효율화
 - 담당 분석 요인
    - 따릉이 고장 데이터 분석으로 따릉이 고장과 상관 관계가 있는 내부/외부 요인 확인
-   - 외부적 요인인 날씨에 따른 고장 분석 
+   - 외부적 요인인 날씨에 따른 고장 분석
+      - 중점 분석 대상 : 날씨 변수 중 기온과 타이어 고장 간의 관계
+
+`PART 2) 데이터 분석 및 EDA`
+
+1. 서울시 공공 자전거 고장 신고 내역 월 별 시각화
+<p align="center">
+   <img src='https://github.com/user-attachments/assets/ff94acdf-bd79-4326-bea4-7b5f9be352dd'>
+   <img src='https://github.com/user-attachments/assets/f86b78a6-68cd-413e-9c6a-0841e6946267'/>
+   <img src='https://github.com/user-attachments/assets/d37b8761-ee43-44b2-a968-5fa3d31e16c0'/>
+</p>
+
+- 계절별 패턴 분석
+   - 2021, 2022년에는 9월 2023년도에는 10월에 고장 건수가 최고치를 기록
+   - 겨울철 고장 감소 21~23년 1, 2, 12월에 고장 건수가 현저히 감소
+      - 겨울철 따릉이의 이용이 감소하여 고장 신고 및 고장 건수가 현저히 낮아졌을 것이라 추측
+
+2. 따릉이 부품 별 고장 등록 건수
+
+<p align="center">
+   <img src='https://github.com/user-attachments/assets/7cd271fb-d2ee-4fb2-9769-c3672ecf8414'>
+   <img src='https://github.com/user-attachments/assets/7020db0b-9d00-43b8-b692-d1459c3b00df'/>
+   <img src='https://github.com/user-attachments/assets/5cfdd2fa-24f4-48b0-8e2f-bbc9b3c06cd4'/>
+</p>
+
+- 주요 고장 부품 순위
+기타 > 타이어 > 체인 > 안장 > 페탈 > 단말기 순으로 고장 신고가 등록되었다.
+> 서울특별시 공공데이터 공개 사이트를 통해 확인해 본결과
+> - 기타 항목에는 전조등, 후미등, 프레임 등과 같은 세부적인 부품들을 일괄적으로 포함
+> - 따라서 기타 항목에 포함된 세부적인 내역을 모두 알 수 없어 분석 대상에서 제외
+
+
+
