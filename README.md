@@ -24,9 +24,9 @@
 
 1. 서울시 공공 자전거 고장 신고 내역 월 별 시각화
 <p align="center">
-   <img src='https://github.com/user-attachments/assets/ff94acdf-bd79-4326-bea4-7b5f9be352dd'>
-   <img src='https://github.com/user-attachments/assets/f86b78a6-68cd-413e-9c6a-0841e6946267'/>
-   <img src='https://github.com/user-attachments/assets/d37b8761-ee43-44b2-a968-5fa3d31e16c0'/>
+   <img src='https://github.com/user-attachments/assets/ff94acdf-bd79-4326-bea4-7b5f9be352dd', width="700">
+   <img src='https://github.com/user-attachments/assets/f86b78a6-68cd-413e-9c6a-0841e6946267', width="700"/>
+   <img src='https://github.com/user-attachments/assets/d37b8761-ee43-44b2-a968-5fa3d31e16c0', width="700"/>
 </p>
 
 - 계절별 패턴 분석
@@ -37,9 +37,9 @@
 2. 따릉이 부품 별 고장 등록 건수
 
 <p align="center">
-   <img src='https://github.com/user-attachments/assets/7cd271fb-d2ee-4fb2-9769-c3672ecf8414'>
-   <img src='https://github.com/user-attachments/assets/7020db0b-9d00-43b8-b692-d1459c3b00df'/>
-   <img src='https://github.com/user-attachments/assets/5cfdd2fa-24f4-48b0-8e2f-bbc9b3c06cd4'/>
+   <img src='https://github.com/user-attachments/assets/7cd271fb-d2ee-4fb2-9769-c3672ecf8414', width="700">
+   <img src='https://github.com/user-attachments/assets/7020db0b-9d00-43b8-b692-d1459c3b00df', width="700"/>
+   <img src='https://github.com/user-attachments/assets/5cfdd2fa-24f4-48b0-8e2f-bbc9b3c06cd4', width="700"/>
 </p>
 
 - 주요 고장 부품 순위
